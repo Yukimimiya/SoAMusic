@@ -1,0 +1,28 @@
+%abc
+%%abc-alias My music
+%%abc-creator ABCexplorer 1.6.1 [2018/01/20]
+%%measurenb 0
+
+X:1
+T: Stones SoA
+M: 6/8
+L: 1/8
+Q: 120
+K:C
+AB|cE cE cE|cE dE cE|BE BE BE|BE cE BE|
+A2 {A/B/}A2 {A/B/}A2|AB AG ED|E4 AB|[cA,,-][EA,,-] [cA,,-][EA,,-] [cA,,-][EA,,-]|[cA,,-][EA,,-] [dA,,-][EA,,-] [cA,,-][EA,,]|
+[BG,,-][EG,,-] [BG,,-][EG,,-] [BG,,-][EG,,-]|[BG,,-][EG,,-] [cG,,-][EG,,-] [BG,,-][EG,,]|[A2A,,2-] {A/B/}[A2A,,2-] {A/B/}[A2A,,2-]|[AA,,-][BA,,-] [AA,,-][GA,,-] [EA,,-][DA,,]|[E4E,,4] AB||
+[cA,,-][EA,,-] [cA,,-][EA,,-] [cA,,-][EA,,-]|[cA,,-][EA,,-] [dA,,-][EA,,-] [cA,,-][EA,,]|[BG,,-][EG,,-] [BG,,-][EG,,-] [BG,,-][EG,,-]|[BG,,-][EG,,-] [cG,,-][EG,,-] [BG,,-][EG,,]|[A2A,,2-] {A/B/}[A2A,,2-] {A/B/}[A2A,,]|
+[AA,,-][BA,,-] [AA,,-][GA,,-] [EA,,-][GA,,-]|[A4A,,4]  |[M:4/4]AB|[c-A,,-] [c-E,A,,-] [c-A,A,,-][c-CA,,-] [c-E,A,,-][cA,A,,-] [dCA,,-][cE,A,,]|[B-G,,-] [B-D,G,,-] [B-G,G,,-][B-B,G,,-] [B-D,G,,-][BG,G,,-] [cB,G,,-][BD,G,,]|
+[A-A,,-] [A-E,A,,-] [A-A,A,,-][A-CA,,-] [AE,A,,-][BA,A,,-] [ACA,,-][GE,A,,] |[E-E,,-] [E-B,,E,,-] [E-E,E,,-][E-B,E,,-] [E-B,,E,,-][EE,E,,-] [AB,E,,-][BB,,E,,]|[c-A,,-] [c-E,A,,-] [cA,A,,-][cCA,,-] [B-E,A,,-][BA,A,,-] [c-CA,,-][cE,A,,]|[d-G,,-] [d-D,G,,-] [dG,G,,-][dB,G,,-] [c-D,G,,-][cG,G,,-] [d-B,G,,-][dD,G,,]|
+[e-A,,-] [e-E,A,,-] [e-A,A,,-][e-CA,,-] [e-E,A,,-][e-A,A,,-] [e-CA,,-][eE,A,,]|[e-E,,-] [e-B,,E,,-] [e-E,E,,-][eB,E,,-] [A-B,,E,,-][AE,E,,-] [B-B,E,,-][BB,,E,,]|[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [d-E,A,,-][dA,A,,-] [c-CA,,-][cE,A,,]|[B-G,,-] [B-D,G,,-] [B-G,G,,-][BB,G,,-] [c-D,G,,-][cG,G,,-] [B-B,G,,-][BD,G,,]|
+[AA,,-] [AE,A,,-] [AA,A,,-][BCA,,-] [A-E,A,,-][AA,A,,-] [G-CA,,-][GE,A,,]|[E-E,,-] [E-B,,E,,-] [E-E,E,,-][EB,E,,-] [A-B,,E,,-][AE,E,,-] [B-B,E,,-][BB,,E,,]|[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [d-E,A,,-][dA,A,,-] [c-CA,,-][cE,A,,]|[B-G,,-] [B-D,G,,-] [B-G,G,,-][BB,G,,-] [A-D,G,,-][A-G,G,,-] [AB,G,,-][GD,G,,]|
+[B-A,,-] [BE,A,,-] [A-A,A,,-][A-CA,,-] [A-E,A,,-][A-A,A,,-] [A-CA,,-][A-E,A,,]|[A6A,,6]  AB|[c-A,,-] [c-E,A,,-] [c-A,A,,-][c-CA,,-] [c-E,A,,-][cA,A,,-] [dCA,,-][cE,A,,]|[B-G,,] [B-D,G,,-] [B-G,G,,-][B-B,G,,-] [B-D,G,,-][BG,G,,-] [cB,G,,-][BD,G,,]|
+[A-A,,-] [A-E,A,,-] [A-A,A,,-][ACA,,-] [AE,A,,-][BA,A,,-] [ACA,,-][GE,A,,] |[E-E,,-] [E-B,,E,,-] [E-E,E,,-][E-B,E,,-] [E-B,,E,,-][EE,E,,-] [AB,E,,-][BB,,E,,]|[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [B-E,A,,-][BA,A,,-] [c-CA,,-][cE,A,,]|[d-G,,-] [d-G,,-] [d-G,G,,-][dB,G,,-] [c-D,G,,-][cG,G,,-] [d-B,G,,-][dD,G,,]|
+[e-A,,-] [e-E,A,,-] [e-A,A,,-][e-CA,,-] [e-E,A,,-][e-A,A,,-] [e-CA,,-][e-E,A,,]|[e-E,,-] [e-B,,E,,-] [e-E,E,,-][eB,E,,-] [A-B,,E,,-][AE,E,,-] [B-B,E,,-][BB,,E,,]|[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [d-E,A,,-][dA,A,,-] [c-CA,,-][cE,A,,]|[B-G,,-] [B-D,G,,-] [B-G,G,,-][BB,G,,-] [c-D,G,,-][cG,G,,-] [B-B,G,,-][BD,G,,]|
+[A-A,,-] [A-E,A,,-] [AA,A,,-][BCA,,-] [A-E,A,,-][AA,A,,-] [G-CA,,-][GE,A,,]|[E-E,,-] [E-B,,E,,-] [E-E,E,,-][EB,E,,-] [A-B,,E,,-][AE,E,,-] [B-B,E,,-][BB,E,,]|[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [d-E,A,,-][dA,A,,-] [c-CA,,-][c-E,A,,]|[B-G,,-] [B-D,G,,-] [B-G,G,,-][BB,G,,-] [A-D,G,,-][AG,G,,-] [AB,G,,-][GD,G,,]|
+[B-A,,-] [BE,A,,-] [A-A,A,,-][A-CA,,-] [A-E,A,,-][A-A,A,,-] [A-CA,,-][A-E,A,,]|[A6A,,6] cd|[eC,-] [d-G,C,-] [d-CC,-][d-EC,-] [dG,C,-][cCC,-] [dEC,-][e-G,C,]|
+[e-C,-] [e-G,C,-] [e-CC,-][eEC,-] [d-G,C,-][dCC,-] [c-EC,-][cG,C,]|[dG,,-] [c-D,G,,-] [c-G,G,,-][cB,G,,-] [B-D,G,,-][BG,G,,-] [cB,G,,-][d-D,G,,]|[d-E,,-] [d-D,E,,-] [d-G,E,,-][dB,E,,-] [c-D,E,,-][cG,E,,-] [B-B,E,,-][BD,E,,]|[c-A,,-] [c-E,A,,-] [c-A,A,,-][c-CA,,-] [A-E,A,,-][AA,A,,-] [BCA,,-][c-E,A,,]|
+[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [cE,A,,-][B-A,A,,-] [BCA,,-][AE,A,,]|[G-E,,-] [G-B,,E,,-] [G-E,E,,-][G-B,E,,-] [G-B,,E,,-][G-E,E,,-] [G-B,E,,-] [GB,,E,,]|[G-E,,-] [G-B,,E,,-] [G-E,E,,-][GB,E,,-] [A-B,,E,,-][AE,E,,-] [B-B,E,,-][BB,,E,,]|[cA,,-] [B-E,A,,-] [B-A,A,,-][BCA,,-] [A-E,A,,-][AA,A,,-] [cCA,,-][B-E,A,,]|
+[B-G,,-] [B-D,G,,-] [B-G,G,,-][B-B,G,,-] [B-D,G,,-][BG,G,,-] [cB,G,,-][BD,G,,]|[c-A,,-] [c-E,A,,-] [cA,A,,-][BCA,,-] [AE,A,,-][G-A,A,,-] [GCA,,-] [E-E,A,,]|[E-E,,-] [E-B,,E,,-] [E-E,E,,-][EB,E,,-] [A-B,,E,,-][AE,E,,-] [B-B,E,,-][BB,,E,,]|
+[c-A,,-] [c-E,A,,-] [c-A,A,,-][cCA,,-] [d-E,A,,-][d-A,A,,-] [dCA,,-][cE,A,,]|[B-G,,-] [B-D,G,,-] [B-G,G,,-][BB,G,,-] [A-D,G,,-][A-G,G,,-] [AB,G,,-][GD,G,,]|[B-A,,-] [BE,A,,-] [A-A,A,,-][A-CA,,-] [A-E,A,,-][A-A,A,,-] [A-CA,,-][A-E,A,,]|[A8A,,8]||
