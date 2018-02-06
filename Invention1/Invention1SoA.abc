@@ -1,0 +1,32 @@
+%abc
+%%abc-alias Bach
+%%abc-creator ABCexplorer 1.6.1 [2018/02/06]
+%%measurenb 0
+
+X:1
+T: Invention 1 SoA
+C: Johan Sebastian Bach (1685-1750)
+C: BWV 772
+Q: 60
+L: 1/16
+M: 4/4
+K:C
+z CDE FDEC G-[GC,][c-D,][cE,] {B/c/}[B-F,][BD,][c-E,][cC,]| [dG,-][GG,][AG,,-][BG,,] cABG  d-[dG,][g-A,][gB,] {f/g/}[f-C][fA,][g-B,][gG,]|
+%3
+[eC-][aC][gB,-][fB,] [eC-][gC][fD-][aD] [gE-][fE][eG,-][dG,] [cA,-][eA,][dB,-][fB,]| [eC-][dC][cE,-][BE,] [A^F,-][c^F,][BG,-][dG,] [cA,-][BA,][AB,-][GB,] [^FC-][AC-][GC-][BC-]|
+%5
+[A-C][AD,][D-E,][D^F,] {c/d/}[c-G,][c-E,][cF,][dD,] [BG,-][AG,][GB,,-][^FB,,] [EC,-][GC,],[FD,-][AD,] |[GE,-][BE,][A^F,-][c^F,] [BG,-][dG,][cE,-][eE,]  [dB,,-][B/B,,/-][c/B,,][dB,,][gC,] {B/c/}[B-D,-][BD,][AD,,-][GD,,]|
+%7
+G-[GG,,][A,,][B,,] C,A,,B,,G,, D,-[GD,][AG,-][BG,] [c^F,-][A^F,][BG,-][GG,]| {^F/G/}[^F-A,][^F,D,]E,F, G,E,F,D,  A,-[AA,][BD-][cD] [dC-][BC][cD-][AD]|
+%9
+[B-G,][BG]FE DFEG F-[dF][cE-][BE] [AF-][cF][BD-][dD] |[c-E][cA]GF EGFA G-[eG][dF-][cF] [BG-][dG][^cE-][eE]|
+%11
+[d-F][d_B][^c-A][^cG] [d-F][dA][e-G][eB] [f-A][fG][A-F][AE] [=B-D][=BF][c-E][cG] |[d-F][dE][^F-D][^FC] [^G-B,][^GD][A-C][AE] [B-D][BC][c-B,][cA,] [d-^G,][d-B,][d-A,][d-C,]|
+%13
+[dB,-][EB,][^FE,-][^GE,] {D/E/}[AD-][FD-][GD]E [eC][dB,][cA,][e=G,] [d^F,][cA,][B^G,][dB,]|[cA,][aC][^gB,][bD] [aC][eE][fD][dF] [^GE-][fE][eA,-][dA,] [c-E-][cE][BE,-][AE,]|
+%15
+[AA,-][aA,][gA,,-][fA,,] egfa g-[g-E][g-D][g-C] [g-B,][g-D][g-^C][g-E]|[gD-][eD-][fD-][gD-] [aD-][fD-][gD-][eD-] [f-D][f-A,][f-B,][f-C] [f-D][f-B,][f-C][f-A,]|
+%17
+[fB,-][gB,-][fB,-][eB,-] [dB,-][fB,-][eB,-][gB,-] [f-B,][f-D][f-C][f-B,] [f-A,][f-C][f-B,][f-D]|[fC-][dC-][eC-][fC-] [gC-][eC-][fC-][dC-] [e-C][e-G,][e-A,][e-_B,] [e-C][e-A,][e-B,][e-G,]|[eA,-][cA,][d_B,-][e_B,] [fA,-][dA,][eG,-][cG,] [dF,-][eF,][fD-][gD] [aC-][fC][gB,-][eB,]|
+%20
+[fA,-][gA,][aF-][bF] [c'E-][aE][bD-][gD]  [c'-E][c'D,][g-E,][gF,] [e-G,][eE,][dF,][cD,]|[cE,-][_BE,][AC,-][GC,] [FD,-][AD,][GE,-][BE,] [AF,][=BD,][cE,][EF,] [DG,-][cG,][FG,,-][BG,,]|{C,,/C,/E/G/c/}[c16G16E16C,16C,,16]||
