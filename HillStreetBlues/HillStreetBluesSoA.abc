@@ -1,0 +1,34 @@
+%abc
+%%abc-alias a SoA music example
+%%abc-creator ABCexplorer 1.6.1 [2018/01/20]
+%%measurenb 0
+
+X:1
+T: Hill Street Blues SoA
+Q: 85
+L: 1/8
+M: 4/4
+K: C
+[C2-F2A,2-] [C-EA,-][C-F-A,-] [C4F4A,4]|[D2-F2_B,2] [D-E_B,-][D-F-_B,-] [D4F4_B,4]|
+%3
+[C2-F2A,2] [C-EA,-][C-F-A,-] [C-FA,-][C-EA,-][D_B,][EC] |[F2D2] [CE][D-_B,-] [D4_B,4]|
+%5
+[F2A2D2_B,2] G[DF_B,G,]-   [D4F4_B,4G,4]  |[F2d2_B,2] c[F_BG,]- [F2_B2G,2] [F2_B,2C,2]|[F2A,2-F,2-] [EA,-F,-][F-A,-F,-] [F2A,2F,2][F2C2A,]|
+%8
+[F2D2-_B,2-] [ED-_B,-][D-F-_B,-] [D2F2-_B,2] [D2F2_B,2]      |[C2-F2A,2-] [C-EA,-][C-F-A,-] [C-FA,-][CEA,][D_B,-C,-][E_B,C,] |[F2A,2-F,2-] [EA,-F,-][F-A,-F,-] [F2-A,2F,2] [F2C2A,2]|
+%11
+[A2D2-_B,2-] [GD-_B,-][F-D-_B,-] [FD-_B,-][ED_B,][D_B,-C,-][E_B,C,]|[F2A,-F,-] [EA,-F,-][F-A,-F,-] [F2-A,2F,2] [F2F,2]|
+%13
+[D2=B,,2-] [E=B,,][DF_B,,]- [DF_B,,-][E_B,,-][F_B,,-][G_B,,]|[F2A2C,2-] [GC,][FA^C,]- [FA^C,-][G^C,-][F^C,-][G^C,]|
+%15
+[^F2A2D,2-] [cD,][=B-^D,-] [=B2^D,2-] [A2^D,2]|[^G2=B2E,2-] [AE,][EGE,-]- [E4G4E,4]|[E2A,2-C2-] [FA,-C-][=G-A,-C-] [G4A,4C4]|
+%18
+[F2_B,2-C,2-] [A_B,-C,-][G-_B,-C,-] [G2-_B,C,] [G2C,2]  |[F2A,2-F,2-] [EA,-F,-][F-A,-F,-] [F2-A,2F,2] [F2C2A,2] |[F2D2-_B,2-] [ED-_B,-][F-D-_B,-] [F2-D2_B,2] [F2D2_B,2]|
+%12
+[F2C2-A,2-] [EC-A,-][F-C-A,-] [FC-A,-][ECA,][D_B,-C,-][E_B,C,]|[F2A,2-F,2-] [EA,-F,-][F-A,-F,-] [F2-A,2F,2] [F2C2A,2]|
+%14
+[A2D2_B,2] [GD-_B,-][F-D-_B,-] [FD-_B,-][ED_B,][D_B,-C,-][E_B,C,]|[F2A,2-F,2-] [EA,-F,-][F-A,-F,-] [F2-F,2F,2] [F2C2]|
+%16
+[F2D2] [EC][D-_B,-]  [D4_B,4] |[F2A2D2_B,2] G[DF_B,G,]-    [D4F4_B,4G,4]|
+%18
+[F2d2_B,2] c[_BFG,]- [_B2F2G,2] [F2_B,2C,2]|[F2F,2] [EE,][F-F,-] [FF,][EE,][FF,][EE,]|[C8F,8]||
