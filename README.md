@@ -1,7 +1,7 @@
 # SoAMusic
 ABC music scores for Shroud of the Avator.
 
-This project has 2 step.
+This project has 2 steps.  
 Firstly, create nomal ABC score using ABC Explore or EasyABC, such as standard Editor/Player.
 Secondly, it arrange to use SoA. Because ABC engine on SoA has some uniq specifications, So 
 it can not play normal version of ABC scores.
