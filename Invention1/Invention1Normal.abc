@@ -1,0 +1,41 @@
+%abc
+%%abc-alias Bach
+%%abc-creator ABCexplorer 1.6.1 [2018/02/06]
+%%measurenb 0
+
+X:1
+T: Invention 1 Normal
+C: Johann Sebastian Bach (1685-1750)
+Q: 60
+L: 1/16
+M: 4/4
+K:C
+[V:1] z CDE FDEC G2c2{B/c/}B2c2         | dGAB cABG  d2g2{f/g/}f2g2|
+[V:2] z8         zC,D,E, F,D,E,C,| G,2G,,2 z4   zG,A,B, CA,B,G,|
+%3
+[V:1] eagf egfa gfed cedf  |edcB AcBd cBAG ^FAGB|
+[V:2] C2B,2C2D2 E2G,2A,2B,2|C2E,2^F,2G,2 A,2B,2 C4-|
+%5
+[V:1] A2D2 {c/d/}c3d BAG^F EGFA     |GBAc Bdce dB/c/dg {B/c/}B2AG|
+[V:2] CD,E,^F, G,E,F,D, G,2B,,2C,2D,2|E,2^F,2G,2E,2 B,,3C, D,2D,,2|
+%7
+[V:1] G2 z2 z4 z GAB cABG                 |{^F/G/}^F2 z2 z4 zABc dBcA|
+[V:2] zG,,A,,B,, C,A,,B,,G,, D,2G,2^F,2G,2|A,D,E,^F, G,E,F,D, A,2D2C2D2|
+%9
+[V:1] B2 z2 z4 zdcB AcBd |c2 z2 z4 zedc Bd^ce|
+[V:2] G,GFE DFEG F2E2F2D2|EAGF EGFA G2F2G2E2 |
+%11
+[V:1] d2^c2d2e2 f2A2=B2c2 |d2^F2^G2A2 B2c2 d4-|
+[V:2] F_BAG FAGB AGFE DFEG|FEDC B,DCE DCB,A, ^G,B,A,C|
+%13
+[V:1] dE^F^G AFGE edce dcBd|ca^gb aefd ^Gfed c2BA|
+[V:2] B,2E,2 {D/E/}D3E CB,A,=G, ^F,A,^G,B,|A,CB,D CEDF E2A,2E2E,2|
+%15
+[V:1] Aagf egfa g8-         |gefg afge f8-          |
+[V:2] A,2A,,2 z4 zEDC B,D^CE|D8-       DA,B,C DB,CA,|
+%17
+[V:1] fgfe dfeg f8-           |fdef gefd e8-             |ecde fdec defg afge|
+[V:2] B,8-      B,DCB, A,CB,D |C8-       CG,A,_B, CA,B,G,|A,2_B,2A,2G,2 F,2D2C2B,2|
+%20
+[V:1] fgab c'abg c'2g2 e2dc     |c_BAG FAGB   A=BcE    DcFB   |{E/G/c}[c16G16E16]||
+[V:2] A,2F2E2D2 ED,E,F, G,E,F,D,|E,2C,2D,2E,2 F,D,E,F, G,2G,,2|{C,,/C,/}[C,16C,,16]||
