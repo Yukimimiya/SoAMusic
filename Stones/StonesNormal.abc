@@ -1,0 +1,63 @@
+%abc
+%%abc-alias My music
+%%abc-creator ABCexplorer 1.6.1 [2018/02/06]
+%%measurenb 0
+
+X:1
+T: Stones Normal
+M: 6/8
+L: 1/8
+Q: 120
+K:C
+% 1: Harp, 2:Lute. 3: Organ or acordeon?
+[V:1]AB|c2 c2 c2|c2 d2 c2|B2 B2 B2|B2 c2 B2|
+[V:2]AB|cE cE cE|cE dE cE|BE BE BE|BE cE BE|
+[V:3]z2|z6|z6|z6|z6|
+[V:1]A2 {A/B/}A2 {A/B/}A2|AB AG ED|E4 AB||c2 c2 c2|c2 d2 c2|
+[V:2]A2 {A/B/}A2 {A/B/}A2|AB AG ED|E4 AB||cE cE cE|cE dE cE|
+[V:3]z6|z6|z6||A,,6-   |A,,6|
+[V:1]B2 B2 B2|B2 c2 B2|A2 {A/B/}A2 {A/B/}A2|AB AG ED|E4 AB||
+[V:2]BE BE BE|BE cE BE|A2 {A/B/}A2 {A/B/}A2|AB AG ED|E4 AB||
+[V:3]G,,6-   |G,,6    |A,,6-               |A,,6    |E,,4 z2||
+[V:1]c2 c2 c2|c2 d2 c2|B2 B2 B2|B2 c2 B2|A2 {A/B/}A2 {A/B/}A2|
+[V:2]cE cE cE|cE dE cE|BE BE BE|BE cE BE|A2 {A/B/}A2 {A/B/}A2|
+[V:3]A,,6-   |A,,6    |G,,6-   |G,,6    |A,,6-               |
+[V:1]AB AG EG|A4  ||[M:4/4]AB||c6             dc |B6             cB |
+[V:2]AB AG EG|A4  ||[M:4/4]z2||z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,6    |A,,4||[M:4/4]z2||A,,8                |G,,8            |
+[V:1]A4-      A B AG  |E6               AB   |c4       B2   c2 |d4        c2   d2  |
+[V:2]z E, A,C E,A, CE, |z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8              |E,,8                  |A,,8             |G,,8               |
+[V:1]e8-               |e4        A2   B2     |c4       d2  c2  |B4         c2  B2  |
+[V:2]z E, A,C E,A, CE,|z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8              |E,,8                  |A,,8             |G,,8              |
+[V:1]A3     B A2   G2 |E4         A2    B2   |c4       d2   c2 |B4        A3     G |
+[V:2]z E, A,C E,A, CE,|z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8             |E,,8                  |A,,8             |G,,8               |
+[V:1]B2 A6-           |A6    AB||c6            dc |B6             cB |
+[V:2]z E, A,C E,A, CE,|A,,6  z2||z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8             |A,,6  z2||A,,8                |G,,8            |
+[V:1]A4-      A B AG  |E6               AB   |c4       B2   c2 |d4        c2   d2  |
+[V:2]z E, A,C E,A, CE, |z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8              |E,,8                  |A,,8             |G,,8               |
+[V:1]e8-               |e4        A2   B2     |c4       d2  c2  |B4         c2  B2  |
+[V:2]z E, A,C E,A, CE,|z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8              |E,,8                  |A,,8             |G,,8              |
+[V:1]A3     B A2   G2 |E4         A2    B2   |c4       d2   c2 |B4        A3     G |
+[V:2]z E, A,C E,A, CE,|z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|
+[V:3]A,,8             |E,,8                  |A,,8             |G,,8               |
+[V:1]B2 A6-           |A6   cd|e d4      c de-|
+[V:2]z E, A,C E,A, CE,|A,,6 z2|z G, CE G,C EG,|
+[V:3]A,,8             |A,,6 z2|C,8            |
+[V:1]e4      d2  c2   |d c3      B2 cd-   |d4        c2   B2  |c4       A2   Bc-|
+[V:2]z G, CE G,C EG,  |z D, G,B, D,G, B,D,|z D, G,B, D,G, B,D,|z E, A,C E,A, CE,|
+[V:3]C,8              |G,,8               |E,,8               |A,,8             |
+[V:1]c4-      c B2  A |G8                     |G4         A2    B2   |c B3     A2   cB-|
+[V:2]z E, A,C E,A, CE,|z B,, E,B, B,,E, B, B,,|z B,, E,B, B,,E, B,B,,|z E, A,C E,A, CE,|
+[V:3]A,,8             |E,,8                   |E,,8                  |A,,8             |
+[V:1]B6             cB  |c3     B A G2   E-|E4         A2    B2   |
+[V:2]z D, G,B, D,G, B,D,|z E, A,C E,A, C E,|z B,, E,B, B,,E, B,B,,|
+[V:3]G,,8               |A,,8              |E,,8                  |
+[V:1]c4       d3    c |B4        A3     G |B2   A6-         |A8||
+[V:2]z E, A,C E,A, CE,|z D, G,B, D,G, B,D,|z E, A,C E,A, CE,|A,,8||
+[V:3]A,,8             |G,,8               |A,,8             |A,,8||
