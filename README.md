@@ -11,22 +11,29 @@ sound correctly cause SoA some issues.
 
 ## 1.Stones (Ultima Online)
 * Original Score: https://ja.scribd.com/doc/17326501/Sheet-for-Stones-Ultima-Online.
+* Original Author: Iolo FitzOwen and Gwenno FitzOwen
+* Permmission/Restriction: Personal Roll Play only.
 * 1st Step:       available
 * 2nd Step:       available
 
 ## 2.Hill Street Blues
 * Original Score: https://www.sheetmusicdirect.com/se/ID_No/24274/Product.aspx
+* Original Author: Mike Post
+* Permission/Restriction: Personal Roll Play only.
 * 1st Step:       available
 * 2nd Step:       avaibable
 
 ## 3.Amaging Grace
 * Original Score: ?
+* Original Author: John Newton
 * 1st Step:       available
 * 2nd Step:       available
 
 ## 4.Invention 1
 * Original Score: http://www.mutopiaproject.org/ftp/BachJS/BWV772/bach-invention-01/
-* 1st Step:       available
+* Original Author: Johann Sebastian Bach
+* Original License: Creative Commons Attributions-ShareAlike 3.0
+* 1st Step:       available
 * 2nd Step:       available
 
 ## 5.Courage (Sword Art Online II op)
